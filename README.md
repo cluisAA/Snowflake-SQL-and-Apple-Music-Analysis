@@ -135,7 +135,7 @@ Final analytical tables for insights:
 
 ## 🔗 Screenshot
 
-![Dashboard](https://github.com/cluisAA/Clive-GA4-E-commerce-Analytics-Dashboard/blob/main/Clive%20Looker%20Final.png)
+![Dashboard](https://github.com/cluisAA/Snowflake-SQL-and-Apple-Music-Analysis/blob/main/Snowflake%20Apple%20Screenshot.png)
 
 ---
 
