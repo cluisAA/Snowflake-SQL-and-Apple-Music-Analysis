@@ -128,7 +128,14 @@ Final analytical tables for insights:
 3. Load CSV → Snowflake Stage → RAW table  
 4. Run SILVER transformation  
 5. Run GOLD analytical models  
-6. Query results or build charts  
+6. Query results or build charts
+
+
+---
+
+## 🔗 Screenshot
+
+![Dashboard](https://github.com/cluisAA/Clive-GA4-E-commerce-Analytics-Dashboard/blob/main/Clive%20Looker%20Final.png)
 
 ---
 
